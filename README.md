@@ -1,2 +1,4 @@
-# Internship-UNSAM
-This repo is about my internship at the UNSAM, Argentina. the subject of the internship is : "Implementation of Partial Volume Correction methods for Positron Emission Tomography"
+# Internship at UNSAM
+
+Welcome on my git repository on my internship at the UNSAM.
+This internship was about the implementation of Partial Volume Correction (PVC) methods for a Positron Emission Tomography (PET).
